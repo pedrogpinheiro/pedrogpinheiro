@@ -1,4 +1,4 @@
-### Wassup! 👋
+### Wassup! I'm Pedro 👋
 
 
 - 🤓 Airplane Pilot learning JS and React Native
